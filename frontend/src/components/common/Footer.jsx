@@ -178,17 +178,17 @@ const Footer = () => {
 
               <Link to='https://github.com/Aniruddha-Gade' target="__blank" className="text-white hover:underline mr-1"
               >
-                Aniruddha Gade
+                Adarsh
               </Link>
             </div>
-            <span> © 2023 Studynotion</span>
+            <span> © 2025 Studynotion</span>
           </div>
 
           <div className="flex items-center">
-            <a href="https://www.linkedin.com/in/aniruddha-gade-a48800231/" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/adarsh-kumar0412/" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
               <ImLinkedin2 size={17} />
             </a>
-            <a href="https://www.github.com/Aniruddha-Gade" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Adarsh-kumar12-sys" className="text-white p-3 hover:bg-richblack-700 rounded-full duration-300" target="_blank" rel="noopener noreferrer">
               <ImGithub size={17} />
             </a>
           </div>
